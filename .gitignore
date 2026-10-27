@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local / MASPy extras
+MASPY-main/
+_repo-work/
+*.log
+.DS_Store
+Thumbs.db
